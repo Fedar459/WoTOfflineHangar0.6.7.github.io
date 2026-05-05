@@ -1,4 +1,6 @@
+Hello, dear developers and players!
 
+The code below represents a standard Offline Hangar modification for the game version 0.6.7. It will allow you to view vehicles, modules, the old interface, etc. This modification is non-commercial, and all rights to the "World of Tanks" trademark and game resources belong to Wargaming.net or Lesta Games. The author of the project makes no claim to the intellectual property of these companies.
 
 
 
