@@ -1,4 +1,5 @@
 [RU] Отказ от ответственности
+
 Данный проект является некоммерческой модификацией для устаревшей версии игры World of Tanks (0.6.7), созданной исключительно в ознакомительных и исследовательских целях.
 Важные положения:
 1.	Этот проект не содержит серверного ПО (BigWorld Server), не эмулирует сетевые протоколы для многопользовательской игры и не позволяет обходить систему авторизации официальных серверов. 
@@ -8,6 +9,7 @@
 5.	Все права на торговую марку "World of Tanks", а также на игровые ресурсы принадлежат компаниям Wargaming.net и/или Lesta Games. Автор проекта не претендует на интеллектуальную собственность указанных компаний.
 ________________________________________
 [EN] Disclaimer
+
 This project is a non-commercial modification for the legacy version of World of Tanks (0.6.7), created solely for educational and research purposes.
 Key Points:
 1.	This project does not contain server-side software (BigWorld Server), does not emulate network protocols for multiplayer, and does not bypass official server authentication. 
