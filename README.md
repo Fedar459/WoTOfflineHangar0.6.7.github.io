@@ -1,4 +1,4 @@
-Original creator: Imperator_Glekobes
+Based on creations of Imperator Glekobes
 
 Hello, dear developers and players!
 
